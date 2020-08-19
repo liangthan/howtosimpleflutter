@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290366318572",
+    "firebase_url": "https://howtosimple-c09ca.firebaseio.com",
+    "project_id": "howtosimple-c09ca",
+    "storage_bucket": "howtosimple-c09ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290366318572:android:334aa9297e69b9dc2342c9",
+        "android_client_info": {
+          "package_name": "com.example.howtosimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290366318572-q3o47bi9169ccasn1d0ellv8c2s24a0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQRGMem2LGfddI7TFJWM7_ny2VrRQH1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290366318572-q3o47bi9169ccasn1d0ellv8c2s24a0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
